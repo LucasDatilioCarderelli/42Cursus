@@ -1,7 +1,3 @@
-[submodule "00-Libft"]
-	path = 00-Libft
+[submodule "00-libft"]
+	path = 00-libft
 	url = https://github.com/LucasDatilioCarderelli/00-Libft
-
-[submodule "00-Libft"]
-	path = 00-Libft
-	url = https://github.com/LucasDatilioCarderelli/01-Get_next_line
