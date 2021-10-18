@@ -12,4 +12,4 @@
 	branch = master
 [submodule "01-Born2beRoot"]
 	path = 01-Born2beRoot
-	url = ./01-Born2beRoot
+	url = https://github.com/LucasDatilioCarderelli/01-Born2beRoot.git
