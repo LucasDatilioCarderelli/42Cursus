@@ -33,6 +33,12 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Printf">
 		<img src="./img/printf.png">
 	</a>
+	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
+		<img src="./img/born2beroot.png">
+	</a>
+	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/so_long">
+		<img src="./img/so_long.png">
+	</a>
 </div>
 
 ## Hard Skills
