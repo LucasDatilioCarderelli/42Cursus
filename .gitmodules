@@ -14,3 +14,6 @@
 	path = 01-Born2beRoot
 	url = https://github.com/LucasDatilioCarderelli/01-Born2beRoot.git
 	branch = master
+[submodule "01-So_long"]
+	path = 01-So_long
+	url = https://github.com/LucasDatilioCarderelli/01-So_long
