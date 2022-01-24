@@ -7,10 +7,14 @@
 <h1 align="center"> 42Cursus </h1>
 
 <p align="center">
-  	<a href="https://www.linkedin.com/in/lucasdatiliocarderelli/">
+	<a href="https://www.linkedin.com/in/lucasdatiliocarderelli/">
     	<img alt="Linkedin" src="https://img.shields.io/badge/Lucas Datilio Carderelli-blue?style=flat&logo=Linkedin&logoColor=white" />
   	</a>
+	<a href="https://github.com/LucasDatilioCarderelli" alt="login intra">
+    	<img src="https://img.shields.io/badge/-ldatilio-gray?style=flat&logo=42&logoColor=white" />
+	</a>
     <img src="https://img.shields.io/github/last-commit/LucasDatilioCarderelli/42cursus?color=blue">
+
 </p>
 
 ---
@@ -36,7 +40,7 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
 		<img src="./img/born2beroot.png">
 	</a>
-	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/so_long">
+	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-So_long">
 		<img src="./img/so_long.png">
 	</a>
 </div>
