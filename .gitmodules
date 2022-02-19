@@ -18,3 +18,6 @@
 	path = 02-So_long
 	url = https://github.com/LucasDatilioCarderelli/02-So_long
 	branch = main
+[submodule "02-Pipex"]
+	path = 02-Pipex
+	url = https://github.com/LucasDatilioCarderelli/02-Pipex
