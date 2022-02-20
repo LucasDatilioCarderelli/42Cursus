@@ -38,6 +38,7 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 	<a alt="ft_printf" href="https://github.com/LucasDatilioCarderelli/01-Printf">
 		<img src="./img/printf.png">
 	</a>
+	<br>
 	<a alt="born2beRoot" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
 		<img src="./img/born2beroot.png">
 	</a>
@@ -57,14 +58,19 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 
 ## Hard Skills
 
-* C
-* SHELL
-* GIT
-* Makefile
+* ``C``
+* ``Shell``
+* ``Git``
+* ``Makefile``
+* ``Unix logic``
 
 ## Soft Skills
 
-* Self Learning
-* Team Working
-* Resilience
-* Empathy
+
+* ``Human Coder``
+* ``Peer-to-Peer Learning``
+* ``Self Learning``
+* ``Team Working``
+* ``Resilience``
+* ``Empathy``
+* ``Communication``
