@@ -28,22 +28,32 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 ## Projects Done:
 
 <div align="center">
+	<h2> Phase One </h2>
 	<a alt="libft" href="https://github.com/LucasDatilioCarderelli/00-Libft">
 		<img src="./img/libft.png">
 	</a>
 	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Get_next_line">
 		<img src="./img/gnl.png">
 	</a>
-	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Printf">
+	<a alt="ft_printf" href="https://github.com/LucasDatilioCarderelli/01-Printf">
 		<img src="./img/printf.png">
 	</a>
-	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
+	<a alt="born2beRoot" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
 		<img src="./img/born2beroot.png">
 	</a>
-	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-So_long">
+	<a alt="so_long" href="https://github.com/LucasDatilioCarderelli/01-So_long">
 		<img src="./img/so_long.png">
 	</a>
+	<a alt="pipex" href="https://github.com/LucasDatilioCarderelli/01-So_long">
+		<img src="./img/pipex.png">
+	</a>
+	<br>
+	<a alt="fase one">
+		<img src="./img/fase1.png">
+	</a>
 </div>
+
+---
 
 ## Hard Skills
 

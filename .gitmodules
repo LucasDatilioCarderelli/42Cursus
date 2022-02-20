@@ -21,3 +21,4 @@
 [submodule "02-Pipex"]
 	path = 02-Pipex
 	url = https://github.com/LucasDatilioCarderelli/02-Pipex
+	branch = master
