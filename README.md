@@ -42,10 +42,10 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 	<a alt="born2beRoot" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
 		<img src="./img/born2beroot.png">
 	</a>
-	<a alt="so_long" href="https://github.com/LucasDatilioCarderelli/01-So_long">
+	<a alt="so_long" href="https://github.com/LucasDatilioCarderelli/02-So_long">
 		<img src="./img/so_long.png">
 	</a>
-	<a alt="pipex" href="https://github.com/LucasDatilioCarderelli/01-So_long">
+	<a alt="pipex" href="https://github.com/LucasDatilioCarderelli/02-Pipex">
 		<img src="./img/pipex.png">
 	</a>
 	<br>
