@@ -2,11 +2,10 @@
 	<a href="https://www.42sp.org.br/">
 		<img src="./img/42-saopaulo.png">
 	</a>
+	<h1> 42Cursus </h1>
 </div>
 
-<h1 align="center"> 42Cursus </h1>
-
-<p align="center">
+<div align="center">
 	<a href="https://www.linkedin.com/in/lucasdatiliocarderelli/">
     	<img alt="Linkedin" src="https://img.shields.io/badge/Lucas Datilio Carderelli-blue?style=flat&logo=Linkedin&logoColor=white" />
   	</a>
@@ -15,7 +14,7 @@
 	</a>
     <img src="https://img.shields.io/github/last-commit/LucasDatilioCarderelli/42cursus?color=blue">
 
-</p>
+</div>
 
 ---
 
@@ -52,6 +51,11 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 	<a alt="fase one">
 		<img src="./img/fase1.png">
 	</a>
+	<br>
+	<h2> Phase Two </h2>
+		<a alt="Push_swap" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+		<img src="./img/push_swap.png">
+	</a>
 </div>
 
 ---
@@ -63,9 +67,12 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 * ``Git``
 * ``Makefile``
 * ``Unix logic``
+* ``Algorithms & AI``
+* ``Imperative programming``
+* ``Graphics``
+* ``Aplicative``
 
 ## Soft Skills
-
 
 * ``Human Coder``
 * ``Peer-to-Peer Learning``
@@ -74,3 +81,18 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 * ``Resilience``
 * ``Empathy``
 * ``Communication``
+
+## Other Projects
+
+* ## [Basecamp](https://github.com/LucasDatilioCarderelli/42Basecamp)
+
+* ## [42Labs](https://github.com/LucasDatilioCarderelli/42labs)
+
+---
+
+<a href="https://www.linkedin.com/in/lucasdatiliocarderelli/">
+	<img alt="Linkedin" src="https://img.shields.io/badge/Lucas Datilio Carderelli-blue?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/LucasDatilioCarderelli" alt="login intra">
+	<img src="https://img.shields.io/badge/-ldatilio-gray?style=flat&logo=42&logoColor=white" />
+</a>
