@@ -22,3 +22,6 @@
 	path = 02-Pipex
 	url = https://github.com/LucasDatilioCarderelli/02-Pipex
 	branch = master
+[submodule "02-Push_swap"]
+	path = 02-Push_swap
+	url = https://github.com/LucasDatilioCarderelli/02-Push_swap
