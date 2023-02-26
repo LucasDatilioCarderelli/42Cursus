@@ -1,27 +1,33 @@
-[submodule "00-Libft"]
-	path = 00-Libft
-	url = https://github.com/LucasDatilioCarderelli/00-Libft
-	branch = master
-[submodule "01-Get_next_line"]
-	path = 01-Get_next_line
-	url = https://github.com/LucasDatilioCarderelli/01-Get_next_line
-	branch = master
-[submodule "01-Printf"]
-	path = 01-Printf
-	url = https://github.com/LucasDatilioCarderelli/01-Printf.git
-	branch = master
-[submodule "01-Born2beRoot"]
-	path = 01-Born2beRoot
-	url = https://github.com/LucasDatilioCarderelli/01-Born2beRoot.git
-	branch = master
-[submodule "02-So_long"]
-	path = 02-So_long
-	url = https://github.com/LucasDatilioCarderelli/02-So_long
-	branch = main
-[submodule "02-Pipex"]
-	path = 02-Pipex
-	url = https://github.com/LucasDatilioCarderelli/02-Pipex
-	branch = master
-[submodule "02-Push_swap"]
-	path = 02-Push_swap
-	url = https://github.com/LucasDatilioCarderelli/02-Push_swap
+[submodule "01-libft"]
+	path = 01-libft
+	url = https://github.com/LucasDatilioCarderelli/01-libft
+[submodule "02-get_next_line"]
+	path = 02-get_next_line
+	url = https://github.com/LucasDatilioCarderelli/02-get_next_line
+[submodule "03-printf"]
+	path = 03-printf
+	url = https://github.com/LucasDatilioCarderelli/03-printf
+[submodule "04-born2beroot"]
+	path = 04-born2beroot
+	url = https://github.com/LucasDatilioCarderelli/04-born2beroot
+[submodule "05-so_long"]
+	path = 05-so_long
+	url = https://github.com/LucasDatilioCarderelli/05-so_long
+[submodule "06-pipex"]
+	path = 06-pipex
+	url = https://github.com/LucasDatilioCarderelli/06-pipex
+[submodule "07-push_swap"]
+	path = 07-push_swap
+	url = https://github.com/LucasDatilioCarderelli/07-push_swap
+[submodule "08-minishell"]
+	path = 08-minishell
+	url = https://github.com/LucasDatilioCarderelli/08-minishell
+[submodule "09-philosophers"]
+	path = 09-Philosophers
+	url = https://github.com/LucasDatilioCarderelli/09-philosophers
+[submodule "10-netpractice"]
+	path = 10-NetPractice
+	url = https://github.com/LucasDatilioCarderelli/10-netpractice
+[submodule "11-cub3d"]
+	path = 11-cub3d
+	url = https://github.com/LucasDatilioCarderelli/11-cub3d
