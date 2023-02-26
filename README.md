@@ -27,7 +27,10 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 ## Projects Done:
 
 <div align="center">
-	<h2> Phase One </h2>
+	<p style="font-size: 21px;">
+		Phase One:
+		<img src="./img/fase1.png" style="vertical-align: middle;">
+	</p>
 	<a alt="libft" href="https://github.com/LucasDatilioCarderelli/00-Libft">
 		<img src="./img/libft.png">
 	</a>
@@ -47,14 +50,29 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 	<a alt="pipex" href="https://github.com/LucasDatilioCarderelli/02-Pipex">
 		<img src="./img/pipex.png">
 	</a>
-	<br>
-	<a alt="fase one">
-		<img src="./img/fase1.png">
-	</a>
-	<br>
-	<h2> Phase Two </h2>
-		<a alt="Push_swap" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+</div>
+
+---
+
+<div align="center">
+	<p style="font-size: 21px;">
+		Phase Two:
+		<img src="./img/phase_two.png" style="vertical-align: middle;">
+	</p>
+	<a alt="Push_swap" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
 		<img src="./img/push_swap.png">
+	</a>
+	<a alt="Minishell" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+		<img src="./img/minishell.png">
+	</a>
+	<a alt="Philosophers" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+		<img src="./img/philosophers.png">
+	</a>
+	<a alt="Netpractice" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+		<img src="./img/netpractice.png">
+	</a>
+	<a alt="Cub3d" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+		<img src="./img/cub3d.png">
 	</a>
 </div>
 
@@ -71,6 +89,7 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 * ``Imperative programming``
 * ``Graphics``
 * ``Aplicative``
+* ``Network & system administration``
 
 ## Soft Skills
 
