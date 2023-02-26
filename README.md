@@ -31,23 +31,23 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 		Phase One:
 		<img src="./img/fase1.png" style="vertical-align: middle;">
 	</p>
-	<a alt="libft" href="https://github.com/LucasDatilioCarderelli/00-Libft">
+	<a alt="libft" href="https://github.com/LucasDatilioCarderelli/01-libft">
 		<img src="./img/libft.png">
 	</a>
-	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/01-Get_next_line">
+	<a alt="get next line" href="https://github.com/LucasDatilioCarderelli/02-get_next_line">
 		<img src="./img/gnl.png">
 	</a>
-	<a alt="ft_printf" href="https://github.com/LucasDatilioCarderelli/01-Printf">
+	<a alt="ft_printf" href="https://github.com/LucasDatilioCarderelli/03-printf">
 		<img src="./img/printf.png">
 	</a>
 	<br>
-	<a alt="born2beRoot" href="https://github.com/LucasDatilioCarderelli/01-Born2beRoot">
+	<a alt="born2beRoot" href="https://github.com/LucasDatilioCarderelli/04-born2beRoot">
 		<img src="./img/born2beroot.png">
 	</a>
-	<a alt="so_long" href="https://github.com/LucasDatilioCarderelli/02-So_long">
+	<a alt="so_long" href="https://github.com/LucasDatilioCarderelli/05-so_long">
 		<img src="./img/so_long.png">
 	</a>
-	<a alt="pipex" href="https://github.com/LucasDatilioCarderelli/02-Pipex">
+	<a alt="pipex" href="https://github.com/LucasDatilioCarderelli/06-pipex">
 		<img src="./img/pipex.png">
 	</a>
 </div>
@@ -59,19 +59,19 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 		Phase Two:
 		<img src="./img/phase_two.png" style="vertical-align: middle;">
 	</p>
-	<a alt="Push_swap" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+	<a alt="Push_swap" href="https://github.com/LucasDatilioCarderelli/07-push_swap">
 		<img src="./img/push_swap.png">
 	</a>
-	<a alt="Minishell" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+	<a alt="Minishell" href="https://github.com/LucasDatilioCarderelli/08-minishell">
 		<img src="./img/minishell.png">
 	</a>
-	<a alt="Philosophers" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+	<a alt="Philosophers" href="https://github.com/LucasDatilioCarderelli/09-philosophers">
 		<img src="./img/philosophers.png">
 	</a>
-	<a alt="Netpractice" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+	<a alt="Netpractice" href="https://github.com/LucasDatilioCarderelli/10-netpractice">
 		<img src="./img/netpractice.png">
 	</a>
-	<a alt="Cub3d" href="https://github.com/LucasDatilioCarderelli/02-Push_swap">
+	<a alt="Cub3d" href="https://github.com/LucasDatilioCarderelli/11-cub3d">
 		<img src="./img/cub3d.png">
 	</a>
 </div>
