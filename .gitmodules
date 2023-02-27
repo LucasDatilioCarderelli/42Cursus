@@ -23,10 +23,10 @@
 	path = 08-minishell
 	url = https://github.com/LucasDatilioCarderelli/08-minishell
 [submodule "09-philosophers"]
-	path = 09-Philosophers
+	path = 09-philosophers
 	url = https://github.com/LucasDatilioCarderelli/09-philosophers
 [submodule "10-netpractice"]
-	path = 10-NetPractice
+	path = 10-netpractice
 	url = https://github.com/LucasDatilioCarderelli/10-netpractice
 [submodule "11-cub3d"]
 	path = 11-cub3d
