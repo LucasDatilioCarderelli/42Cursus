@@ -27,10 +27,11 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 ## Projects Done:
 
 <div align="center">
-			Phase One
 	<p>
 		<img src="./img/fase1.png" style="vertical-align: middle;">
 	</p>
+	Phase One
+	<br><br>
 	<a alt="libft" href="https://github.com/LucasDatilioCarderelli/01-libft">
 		<img src="./img/libft.png">
 	</a>
@@ -55,10 +56,11 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 ---
 
 <div align="center">
-	Phase Two
 	<p>
 		<img src="./img/phase_two.png" style="vertical-align: middle;">
 	</p>
+	Phase Two
+	<br><br>
 	<a alt="Push_swap" href="https://github.com/LucasDatilioCarderelli/07-push_swap">
 		<img src="./img/push_swap.png">
 	</a>
