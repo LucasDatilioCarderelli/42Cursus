@@ -1,33 +1,44 @@
 [submodule "01-libft"]
 	path = 01-libft
 	url = https://github.com/LucasDatilioCarderelli/01-libft
+	branch = master
 [submodule "02-get_next_line"]
 	path = 02-get_next_line
 	url = https://github.com/LucasDatilioCarderelli/02-get_next_line
+	branch = master
 [submodule "03-printf"]
 	path = 03-printf
 	url = https://github.com/LucasDatilioCarderelli/03-printf
+	branch = master
 [submodule "04-born2beroot"]
 	path = 04-born2beroot
 	url = https://github.com/LucasDatilioCarderelli/04-born2beroot
+	branch = master
 [submodule "05-so_long"]
 	path = 05-so_long
 	url = https://github.com/LucasDatilioCarderelli/05-so_long
+	branch = main
 [submodule "06-pipex"]
 	path = 06-pipex
 	url = https://github.com/LucasDatilioCarderelli/06-pipex
+	branch = master
 [submodule "07-push_swap"]
 	path = 07-push_swap
 	url = https://github.com/LucasDatilioCarderelli/07-push_swap
+	branch = master
 [submodule "08-minishell"]
 	path = 08-minishell
 	url = https://github.com/LucasDatilioCarderelli/08-minishell
+	branch = main
 [submodule "09-philosophers"]
 	path = 09-philosophers
 	url = https://github.com/LucasDatilioCarderelli/09-philosophers
+	branch = main
 [submodule "10-netpractice"]
 	path = 10-netpractice
 	url = https://github.com/LucasDatilioCarderelli/10-netpractice
+	branch = main
 [submodule "11-cub3d"]
 	path = 11-cub3d
 	url = https://github.com/LucasDatilioCarderelli/11-cub3d
+	branch = main
