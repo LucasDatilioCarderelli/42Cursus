@@ -80,6 +80,31 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 
 ---
 
+<div align="center">
+	Phase tree
+	<br><br>
+	<a alt="cpp" href="https://github.com/LucasDatilioCarderelli/12-cpp">
+		<img src="./img/cppm.png">
+	</a>
+	<a alt="inception" href="https://github.com/LucasDatilioCarderelli/13-inception">
+		<img src="./img/inceptione.png">
+	</a>
+	<a alt="webserv" href="https://github.com/LucasDatilioCarderelli/14-webserv">
+		<img src="./img/webserve.png">
+	</a>
+	<a alt="transcendence" href="https://github.com/LucasDatilioCarderelli/15-transcendence">
+		<img src="./img/ft_transcendencem.png">
+	</a>
+</div>
+
+---
+<div align="center">
+	Common core completed!
+	<p>
+		<img src="./img/common_coree.png">
+	</p>
+</div>
+
 ## Hard Skills
 
 * ``C``
@@ -92,6 +117,8 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 * ``Graphics``
 * ``Aplicative``
 * ``Network & system administration``
+* ``Object-oriented programming``
+* ``Web``
 
 ## Soft Skills
 
@@ -102,6 +129,7 @@ The 42 cursus is free for whoever is approved in the [basecamp](https://github.c
 * ``Resilience``
 * ``Empathy``
 * ``Communication``
+* ``Group & interpersonal``
 
 ## Other Projects
 

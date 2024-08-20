@@ -42,3 +42,15 @@
 	path = 11-cub3d
 	url = https://github.com/LucasDatilioCarderelli/11-cub3d
 	branch = main
+[submodule "12-cpp"]
+	path = 12-cpp
+	url = https://github.com/LucasDatilioCarderelli/12-cpp.git
+[submodule "13-inception"]
+	path = 13-inception
+	url = https://github.com/LucasDatilioCarderelli/13-inception.git
+[submodule "14-webserv"]
+	path = 14-webserv
+	url = https://github.com/LucasDatilioCarderelli/14-webserv.git
+[submodule "15-transcendence"]
+	path = 15-transcendence
+	url = https://github.com/LucasDatilioCarderelli/15-transcendence.git
